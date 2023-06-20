@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AfiqFaiz
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning on how to use Microsoft Dynamics Business Central
-- //💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: afiq.munawir@9dots.com
 
 <!---
